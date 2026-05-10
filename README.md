@@ -3,7 +3,7 @@
 An AI-powered FIFA World Cup 2026 tournament simulator built using React, Vite, Recharts, and machine learning inspired prediction logic.
 
 🚀 Live Demo
-Add your Vercel deployment link here
+https://wc26-simulator-hunainahmed-ghs-projects.vercel.app?_vercel_share=WHyc924jgUGu8wMaAZnipvIYNmAV4yea
 
 # 📌 Features
 
